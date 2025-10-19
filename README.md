@@ -1,8 +1,10 @@
 
 
-## Description
+## Summary
 
-Based on [VOoM](https://github.com/vim-voom/VOoM) project, did some minor changes on Markdown related part, and make it work with Python 3.
+- Based on [VOoM](https://github.com/vim-voom/VOoM) project
+
+- Did some minor changes on Markdown related part, and make it work with Python 3.
 
 
 ## How to Use
@@ -22,7 +24,7 @@ Start GVim, then run command `:V`
 
 ## References:
 
-- [This is a mirror of http://www.vim.org/scripts/script.php?script_id=2657](This is a mirror of http://www.vim.org/scripts/script.php?script_id=2657)
+- [http://www.vim.org/scripts/script.php?script_id=2657](http://www.vim.org/scripts/script.php?script_id=2657)
 
 - [https://github.com/vim-voom/VOoM](https://github.com/vim-voom/VOoM)
 
